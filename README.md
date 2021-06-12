@@ -1,4 +1,4 @@
-### Hi GGGGGHT 👋
+### Hi GGGGGHT
 
 ![](https://img.shields.io/badge/Use-C/G0/JAVA-0076ab?style=flat&logo=C&logoColor=ffffff)
 ![](https://img.shields.io/badge/Learn-JAVA-blueviolet?style=flat&logo=Visual%20Studio%20Code&logoColor=ffffff)
