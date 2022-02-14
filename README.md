@@ -32,3 +32,4 @@ Here are some ideas to get you started:
 </pre>
  
 ![](https://github-readme-stats.vercel.app/api?username=GGGGGHT&show_icons=true)
+![Snake animation](https://github.com/GGGGGHT/GGGGGHT/blob/output/github-contribution-grid-snake.svg)
